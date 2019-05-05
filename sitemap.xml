@@ -3,16 +3,11 @@
 
     <sitemap>
         <loc>http://qiushao.xyz/post-sitemap.xml</loc>
-        <lastmod>2019-05-04T14:06:25.253Z</lastmod>
+        <lastmod>2019-05-04T14:01:37.155Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://qiushao.xyz/page-sitemap.xml</loc>
-        <lastmod>2017-09-24T04:40:20.000Z</lastmod>
-    </sitemap>
-
-    <sitemap>
-        <loc>http://qiushao.xyz/tag-sitemap.xml</loc>
         <lastmod>2017-09-24T04:40:20.000Z</lastmod>
     </sitemap>
 
